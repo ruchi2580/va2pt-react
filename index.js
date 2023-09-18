@@ -1,0 +1,1 @@
+ReactDOM.render(<h3>hii gyanu</h3>, document.getElementById("root"));
